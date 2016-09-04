@@ -30,7 +30,7 @@ npm install pdf-merge
 Create PDFs,
 
 ```bash
-casper pdf.js
+casperjs pdf.js
 ```
 
 Merge pdfs,
